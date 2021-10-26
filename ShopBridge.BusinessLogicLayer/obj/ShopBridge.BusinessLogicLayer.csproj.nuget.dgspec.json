@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShopBridge.BusinessLogicLayer\\ShopBridge.BusinessLogicLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\ModelValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\ModelValidation.csproj",
+        "projectName": "ModelValidation",
+        "projectPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\ModelValidation.csproj",
+        "packagesPath": "C:\\Users\\Akhil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Akhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\ShoBridge.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\ShoBridge.DataAccessLayer.csproj",
+        "projectName": "ShoBridge.DataAccessLayer",
+        "projectPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\ShoBridge.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Akhil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Akhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShopBridge.BusinessLogicLayer\\ShopBridge.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShopBridge.BusinessLogicLayer\\ShopBridge.BusinessLogicLayer.csproj",
+        "projectName": "ShopBridge.BusinessLogicLayer",
+        "projectPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShopBridge.BusinessLogicLayer\\ShopBridge.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Akhil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShopBridge.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Akhil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\ModelValidation.csproj": {
+                "projectPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ModelValidation\\ModelValidation.csproj"
+              },
+              "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\ShoBridge.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Akhil\\source\\repos\\ShoBridgeApp\\ShoBridge.DataAccessLayer\\ShoBridge.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

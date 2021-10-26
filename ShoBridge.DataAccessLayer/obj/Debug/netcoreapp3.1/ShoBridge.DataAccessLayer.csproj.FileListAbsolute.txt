@@ -1,0 +1,12 @@
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\bin\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.deps.json
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\bin\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.runtimeconfig.json
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\bin\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\bin\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.dll
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\bin\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.pdb
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.dll
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.pdb
+C:\Users\Akhil\source\repos\ShoBridgeApp\ShoBridge.DataAccessLayer\obj\Debug\netcoreapp3.1\ShoBridge.DataAccessLayer.genruntimeconfig.cache
